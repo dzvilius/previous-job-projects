@@ -1,4 +1,4 @@
-# Previous Job Projects
+# Work Examples
 
 This repository contains screenshots and preview links for the projects I've been working on at Cybertonica Ltd.
 
